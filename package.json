@@ -1,0 +1,25 @@
+{
+  "name": "leetcode-md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --timeout 15000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stu01509/leetcode-md.git"
+  },
+  "author": "stu01509",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stu01509/leetcode-md/issues"
+  },
+  "homepage": "https://github.com/stu01509/leetcode-md#readme",
+  "devDependencies": {
+    "eslint": "^6.7.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "nodemon": "^2.0.1"
+  }
+}
